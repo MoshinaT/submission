@@ -4,7 +4,6 @@ import InputRange from "react-input-range";
 import "react-input-range/lib/css/index.css";
 
 import NavBar from "./NavBar";
-import Footer from "./Footer";
 import "./Home.css";
 
 class App extends Component {
