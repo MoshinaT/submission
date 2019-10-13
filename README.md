@@ -50,7 +50,7 @@ Go to `http://localhost:3000` to view the app.
 
 ## Authors
 
-- **Soumya Ranjan Mohanty** - [geekysrm](https://github.com/geekysrm)
+- **Moshina Thajudeen** - [MoshinaT](https://github.com/MoshinaT)
 
 ## License
 
